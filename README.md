@@ -13,6 +13,6 @@ https://begginer-dev.base44.app
 Ruan Barbalho+
 ## 📸 Preview
 
-![Tela 1](captura-de-tela-2026-05-03001259.png)
+![Tela 1](Captura de tela 2026-05-03 001136.png)
 ![Tela 2](captura-de-tela-2026-05-03001225png)
 ![Tela 3](captura-de-tela-2026-05-030011365png)
